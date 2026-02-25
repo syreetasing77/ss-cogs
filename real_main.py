@@ -1,0 +1,2 @@
+fear = "none"
+win = "always"
